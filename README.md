@@ -32,6 +32,7 @@ my-3d-printing-notes/
 └── resources/
     └── github-resources.md
 
+```
 ## 今日学习记录
 
 2026-06-12：
