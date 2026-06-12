@@ -28,3 +28,6 @@ bambu lab profile
 fusion 360 script
 parametric storage box
 openscad organizer
+```
+
+| heyixuan2/bambu-studio-ai | https://github.com/heyixuan2/bambu-studio-ai | Bambu Lab 3D 打印 AI agent skill，可学习搜索、生成、分析、打印监控流程 | 是 | 值得关注；先学习架构和 README，不建议新手直接用于真实打印控制 |
