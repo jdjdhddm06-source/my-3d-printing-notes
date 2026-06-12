@@ -31,3 +31,12 @@ my-3d-printing-notes/
 │   └── learning-notes.md
 └── resources/
     └── github-resources.md
+
+## 今日学习记录
+
+2026-06-12：
+
+- 完成 GitHub Desktop 安装和登录
+- 成功将 GitHub 仓库 Clone 到本地电脑
+- 学会查看 GitHub Desktop 的 Changes 和 Current branch
+- 准备学习本地修改、commit 和 push
